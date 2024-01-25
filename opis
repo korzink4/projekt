@@ -1,0 +1,7 @@
+Plik z grą Space Invaders. Projekt należy wypakować, w katalogu ConsoleApplication1 znajdują się pliki dźwiękowe, tekstury, itp.
+Także w tym samym pliku znajdują się pliki biblioteki SFML, dlatego nie udało się przenieść wszystkich plików w zwykłym, nie 
+spakowanym formacie (ponieważ projekt zawiera zbyt wiele plików).
+
+Gra opiera się na zniszczeniu wszystkich "wrogów" poprzez strzelanie do nich. W grze istnieje możliwość sterowania 
+statkiem kosmicznym dla jednego gracza. Podczas rozgrywki odtwarzana jest melodia. 
+Gra kończy się, gdy wszyscy wrogowie zostaną pokonani lub gdy wrogowie dotkną statku kosmicznego.
